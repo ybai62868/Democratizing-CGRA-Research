@@ -6,6 +6,13 @@ A list of useful and basic knowledge for the CGRA research.
 - [Open Source Projects](#open-source-projects)
 - [Papers](#papers)
   - [Survey](#survey)
+  - [Hardware-aware Mapping](#hardware-aware-mapping)
+  - [ISA-aware Mapping](#isa-aware-mapping)
+
+- [Tutorials](#tutorials)
+- [Contribute](#contribute)
+
+
 
 
 ## Open Source Projects
@@ -19,8 +26,23 @@ A list of useful and basic knowledge for the CGRA research.
 ### Survey
 - [A Survey on Coarse-Grained Reconfigurable Architectures From a Performance Perspective](https://arxiv.org/pdf/2004.04509.pdf) by ARTUR PODOBAS et al., IEEE ACCESS
 
+### Hardware-aware Mapping 
+- [CoSA: Scheduling by Constrained Optimization for Spatial Accelerators](https://arxiv.org/pdf/2105.01898.pdf) by Qijing Huang et al., ISCA 2021
+- [HASCO: Towards Agile HArdware and Software
+CO-design for Tensor Computation](https://arxiv.org/pdf/2105.01585.pdf) by Qingcheng Xiao et al., ISCA 2021
+- [SARA: Scaling A Reconfigurable Dataflow Accelerator](https://ieeexplore.ieee.org/document/9499943) by Yaqi Zhang et al., ISCA 2021
+
+### ISA-aware Mapping
+- [UNIT: Unifying Tensorized Instruction Compilation](https://arxiv.org/pdf/2101.08458.pdf) by Jian Weng et al., CGO 2021
+- [AMOS: enabling automatic mapping for tensor computations on spatial accelerators with hardware abstraction]() by Size Zheng et al., ISCA 2022
+
+
+
+
+
 ## Tutorials
 - [Dive into CGRA Research]()
 
+
 ## Contribute
-We encourage all contributions to this repository. Open an [issue](https://github.com/ybai62868/Democratizing-CGRA-Research/issues) or send a [pull request](https://github.com/ybai62868/Democratizing-CGRA-Research/pulls).
+Feel free to contact with me and we encourage all contributions to this repository. Open an [issue](https://github.com/ybai62868/Democratizing-CGRA-Research/issues) or send a [pull request](https://github.com/ybai62868/Democratizing-CGRA-Research/pulls).
