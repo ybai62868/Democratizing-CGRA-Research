@@ -46,4 +46,6 @@ CO-design for Tensor Computation](https://arxiv.org/pdf/2105.01585.pdf) by Qingc
 
 
 ## Contribute
-Feel free to contact with me and we encourage all contributions to this repository. Open an [issue](https://github.com/ybai62868/Democratizing-CGRA-Research/issues) or send a [pull request](https://github.com/ybai62868/Democratizing-CGRA-Research/pulls).
+Feel free to contact with me and we encourage all contributions to this repository.
+
+Open an [issue](https://github.com/ybai62868/Democratizing-CGRA-Research/issues) or send a [pull request](https://github.com/ybai62868/Democratizing-CGRA-Research/pulls).
