@@ -9,6 +9,7 @@ A list of useful and basic knowledge for the CGRA research.
   - [Survey](#survey)
   - [Hardware-aware Mapping](#hardware-aware-mapping)
   - [ISA-aware Mapping](#isa-aware-mapping)
+  - [Template](#template)
 
 - [Tutorials](#tutorials)
 - [Contribute](#contribute)
@@ -38,7 +39,8 @@ CO-design for Tensor Computation](https://arxiv.org/pdf/2105.01585.pdf) by Qingc
 - [AMOS: enabling automatic mapping for tensor computations on spatial accelerators with hardware abstraction]() by Size Zheng et al., ISCA 2022
 
 
-
+### Template
+- [TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra](https://arxiv.org/pdf/2104.12339.pdf)
 
 
 ## Tutorials
