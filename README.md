@@ -27,7 +27,8 @@ A list of useful and basic knowledge for the CGRA research.
 ## Papers
 
 ### Survey
-- [A Survey on Coarse-Grained Reconfigurable Architectures From a Performance Perspective](https://arxiv.org/pdf/2004.04509.pdf) by ARTUR PODOBAS et al., IEEE ACCESS
+- [Hardware Acceleration of Sparse and Irregular Tensor Computations of ML Models: A Survey and Insights](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9507542) by Shail Dave et al., 2021  
+- [A Survey on Coarse-Grained Reconfigurable Architectures From a Performance Perspective](https://arxiv.org/pdf/2004.04509.pdf) by ARTUR PODOBAS et al., IEEE ACCESS 2020
 
 ### CGRA Architectures
 - [HyCUBE: A CGRA with Reconfigurable Single-cycle Multi-hop Interconnect](https://www.comp.nus.edu.sg/~tulika/DAC17.pdf) by Manupa Karunaratne et al., DAC 2017
