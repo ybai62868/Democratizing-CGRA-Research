@@ -7,9 +7,10 @@ A list of useful and basic knowledge for the CGRA research.
 - [Open Source Projects](#open-source-projects)
 - [Papers](#papers)
   - [Survey](#survey)
+  - [CGRA Architectures](#cgra-architectures)
   - [Hardware-aware Mapping](#hardware-aware-mapping)
   - [ISA-aware Mapping](#isa-aware-mapping)
-  - [Template](#template)
+  - [Hardware Template](#hardware-template)
 
 - [Tutorials](#tutorials)
 - [Contribute](#contribute)
@@ -28,6 +29,13 @@ A list of useful and basic knowledge for the CGRA research.
 ### Survey
 - [A Survey on Coarse-Grained Reconfigurable Architectures From a Performance Perspective](https://arxiv.org/pdf/2004.04509.pdf) by ARTUR PODOBAS et al., IEEE ACCESS
 
+### CGRA Architectures
+- [HyCUBE: A CGRA with Reconfigurable Single-cycle Multi-hop Interconnect](https://www.comp.nus.edu.sg/~tulika/DAC17.pdf) by Manupa Karunaratne et al., DAC 2017
+- [MorphoSys: An integrated reconfigurable system for data-parallel and computation-intensive applications](https://courses.cs.washington.edu/courses/cse591n/06au/papers/00859540.pdf) by Hartej Singh et al., TC 2000
+- [A Hybrid Systolic-Dataflow Architecture for
+Inductive Matrix Algorithms](https://courses.cs.washington.edu/courses/cse591n/06au/papers/00859540.pdf) by Jian Weng et al., HPCA 2020
+
+
 ### Hardware-aware Mapping 
 - [CoSA: Scheduling by Constrained Optimization for Spatial Accelerators](https://arxiv.org/pdf/2105.01898.pdf) by Qijing Huang et al., ISCA 2021
 - [HASCO: Towards Agile HArdware and Software
@@ -39,8 +47,11 @@ CO-design for Tensor Computation](https://arxiv.org/pdf/2105.01585.pdf) by Qingc
 - [AMOS: enabling automatic mapping for tensor computations on spatial accelerators with hardware abstraction]() by Size Zheng et al., ISCA 2022
 
 
-### Template
-- [TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra](https://arxiv.org/pdf/2104.12339.pdf)
+### Hardware Template
+- [TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra](https://arxiv.org/pdf/2104.12339.pdf) by Liancheng Jia et al., DAC 2021
+
+
+
 
 
 ## Tutorials
