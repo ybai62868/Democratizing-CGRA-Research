@@ -1,4 +1,4 @@
-# Democratizing-CGRA-Research
+# Democratizing Reconfigurable Spatial Accelerators Research
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/merrymercy/awesome-tensor-compilers/graphs/commit-activity)
 
 A list of useful and basic knowledge for the CGRA research.
